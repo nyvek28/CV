@@ -1,0 +1,26 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "This is developer Kevyn Quiros' online CV",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nyvek28/CV.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Kevyn Quiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyvek28/CV/issues"
+  },
+  "homepage": "https://github.com/nyvek28/CV#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
